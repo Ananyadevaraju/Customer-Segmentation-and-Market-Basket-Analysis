@@ -1,2 +1,2 @@
-# Customer-Segmentation-and-Market-Basket-Analysis
+# Customer-Segmentation
 In progress
